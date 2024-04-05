@@ -15,10 +15,13 @@ iii. KG have a human readable representation of data whereas vector DB acts as a
 
 
 
-
 ## Code-
   The code provided includes 2 parts:
 1. Code for creating KG on neo4j which is a graph DBMS
 2. Code for Data Retrieval Engine.
-   
+
+
+## PNG Files-
+
+The .png files consist of the Knowledge Graphs for the relationships- customer located in, product popular in, purchased by, etc. 
 
