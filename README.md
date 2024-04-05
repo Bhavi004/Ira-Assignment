@@ -1,8 +1,6 @@
 # Ira-Assignment Submission
 
-## PART 1: Provide a detailed report outlining your approach, solution design, and the rationale behind your choices
-
-Answer: 
+## PART 1: Provide a detailed report outlining your approach, solution design, and the rationale behind your choice
 
 Approch-
    Here, we plan on implementing a Knowledge Graph to create relationships between the various entities in our dataset, that is, customers, products they purchased, invoice Numbers, countries the customers belong to, date of purchase etc.  Once the KG is modelled generate nodes for these entities and capture the relationships between them, we plan on implementing a RAG Pipeline using LLaMa Index to retrieve the desired output by inputting a user query.
@@ -18,7 +16,7 @@ iii. KG have a human readable representation of data whereas vector DB acts as a
 
 
 
-Code-
+## Code-
   The code provided includes 2 parts:
 1. Code for creating KG on neo4j which is a graph DBMS
 2. Code for Data Retrieval Engine.
