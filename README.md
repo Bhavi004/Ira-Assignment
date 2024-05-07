@@ -1,8 +1,5 @@
-# Ira-Assignment Submission
+## 1. Approch-
 
-## 1. Provide a detailed report outlining your approach, solution design, and the rationale behind your choice
-
-Approch-
    Here, we plan on implementing a Knowledge Graph to create relationships between the various entities in our dataset, that is, customers, products they purchased, invoice Numbers, countries the customers belong to, date of purchase etc.  Once the KG is modelled generate nodes for these entities and capture the relationships between them, we plan on implementing a RAG Pipeline using LLaMa Index to retrieve the desired output by inputting a user query.
    
 We have used Knowledge Graphs rather than Vector Databases for the following reason:
